@@ -19,12 +19,12 @@ Receber as informações do Agent 1 e gerar um plano completo de estudos com:
 ## 📥 DADOS QUE VOCÊ RECEBE
 
 O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+- **Carreira escolhida:** Engenheira de Cloud  
+- **Horas disponíveis por semana:** 15h a 20h  
+- **Nível de experiência:** já possui experiência (front-end e DevSecOps)  
+- **Objetivo:** crescer na função atual  
+- **Preferência:** mistura de pessoas, dados e código  
+- **Interesses técnicos:** Cloud, Azure, GitHub Actions, Kubernetes  
 
 
 ## 🎬 INICIAR CONVERSA
